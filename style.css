@@ -1,7 +1,11 @@
 body {
   font-family: "Lato", sans-serif;
 }
-
+.navbar {
+  width: 100%;
+  height: 10px;
+  backgournd-color: #000000
+}
 .sidenav {
   height: 100%;
   width: 0;
