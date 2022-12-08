@@ -35,3 +35,7 @@ body {
   background-color: rgb(17, 138, 60);
   color: white;
 }
+
+#topnav {
+  margin-bottom: 3px
+}
